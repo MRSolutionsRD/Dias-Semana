@@ -1,0 +1,11 @@
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\bin\Debug\netcoreapp3.1\Dias.semana.exe
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\bin\Debug\netcoreapp3.1\Dias.semana.deps.json
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\bin\Debug\netcoreapp3.1\Dias.semana.runtimeconfig.json
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\bin\Debug\netcoreapp3.1\Dias.semana.runtimeconfig.dev.json
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\bin\Debug\netcoreapp3.1\Dias.semana.dll
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\bin\Debug\netcoreapp3.1\Dias.semana.pdb
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\obj\Debug\netcoreapp3.1\Dias.semana.csprojAssemblyReference.cache
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\obj\Debug\netcoreapp3.1\Dias.semana.AssemblyInfoInputs.cache
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\obj\Debug\netcoreapp3.1\Dias.semana.AssemblyInfo.cs
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\obj\Debug\netcoreapp3.1\Dias.semana.dll
+C:\Users\mriva\source\repos\Dias.semana\Dias.semana\obj\Debug\netcoreapp3.1\Dias.semana.pdb
